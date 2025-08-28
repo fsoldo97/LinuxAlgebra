@@ -2,3 +2,4 @@ Neke nove promjene
 nakon git restora
 
 Dodano je jos nesto
+dadadada
