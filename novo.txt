@@ -1,0 +1,2 @@
+Neke nove promjene
+nakon git restora
